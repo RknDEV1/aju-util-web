@@ -1,0 +1,9 @@
+{
+  "name": "Aju Util",
+  "short_name": "Aju Util",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#c0392b",
+  "icons": []
+}
